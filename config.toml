@@ -1,3 +1,6 @@
+import streamlit as st
+import requests
+
 [Custom theme]
 
 #Primary accent for interactive elements

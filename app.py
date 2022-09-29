@@ -24,8 +24,8 @@ contact_form = """
         <input type="text" name="budget" placeholder="Budget?"required>
          <input type="text" name="Loan" placeholder="Need Loan?(Y/N)"required>
           <input type="text" name="FICO" placeholder="FICO above 680?(Y/N)"required>
-          <input type="text" name="FICO" placeholder="Do you have a downpayment?(Y/N)"required>
-          <input type="text" name="location" placeholder=" Location for Tiny Y/N"required>
+          <input type="text" name="FICO" placeholder="How much down do you have?"required>
+          <input type="text" name="location" placeholder=" Location for Tiny"required>
            <input type="text" name="Wheels" placeholder="Tiny House on Wheels(Y/N)"required> 
            <input type="text" name="foundation" placeholder="Tiny on a foundation(Y/N)"required>
            <input type="hidden" name="_captcha" value="false">

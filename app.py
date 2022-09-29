@@ -5,7 +5,7 @@ import requests
 
 
 
-st.set_page_config(page_title="Tiny House Questions", page_icon=":rabbit:",layout="column")
+st.set_page_config(page_title="Tiny House Questions", page_icon=":rabbit:",layout="wide")
 
 
 # Header section

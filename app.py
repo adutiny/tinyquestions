@@ -5,7 +5,7 @@ import requests
 
 
 
-st.set_page_config(page_title="Tiny House Questions", page_icon=":rabbit:",layout="wide")
+st.set_page_config(page_title="Tiny House Questions", page_icon=":rabbit:",layout="column")
 
 
 # Header section
@@ -29,6 +29,7 @@ contact_form = """
           <input type="text" name="location" placeholder=" Location for Tiny"required>
            <input type="text" name="Wheels" placeholder="Tiny House on Wheels(Y/N)"required> 
            <input type="text" name="foundation" placeholder="Tiny on a foundation(Y/N)"required>
+           <input type="text" name="Comments" placeholder="Anything else we need to know"required>
            <input type="hidden" name="_captcha" value="false">
            <button type="submit">Submit</button>
            

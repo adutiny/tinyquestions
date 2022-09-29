@@ -20,7 +20,7 @@ contact_form = """
      <input type="text" name="name" placeholder="Your Name"required>
      <input type="email" name="email" placeholder="Your Email"required>
       <input type="text" name="city" placeholder="Your City"required>
-       <input type="text" name="downpayment" placeholder="Have Down payment Y/N"required>
+       <input type="text" name="downpayment" placeholder="Your Phone Number"required>
         <input type="text" name="budget" placeholder="Budget?"required>
          <input type="text" name="Loan" placeholder="Need Loan?(Y/N)"required>
           <input type="text" name="FICO" placeholder="FICO above 680?(Y/N)"required>

@@ -22,11 +22,11 @@ contact_form = """
       <input type="text" name="city" placeholder="Your City"required>
        <input type="text" name="Phone" placeholder="Your Phone Number"required>
         <input type="text" name="budget" placeholder="Budget?"required>
-         <input type="text" name="Loan" placeholder="Need Loan?(Y/N)"required>
-          <input type="text" name="FICO" placeholder="FICO above 680?(Y/N)"required>
-          <input type="text" name="Downpayment" placeholder="Downpayment Amount?"required>
-           <input type="text" name="Downpayment" placeholder="Is down 20% of budget?(Y/N)"required>
-           <input type="text" name="Cash" placeholder="Do you want to pay cash?"required>
+         <input type="text" name="Nedd a Loan" placeholder="Need Loan?(Y/N)"required>
+          <input type="text" name="Is FICO above 680" placeholder="FICO above 680?(Y/N)"required>
+          <input type="text" name="How much is your Downpayment" placeholder="Downpayment Amount?"required>
+           <input type="text" name="Is your down 20% of budget" placeholder="Is down 20% of budget?(Y/N)"required>
+           <input type="text" name="Do you want to pay cash" placeholder="Do you want to pay cash?"required>
           <input type="text" name="location" placeholder=" Location for Tiny"required>
            <input type="text" name="Wheels" placeholder="Tiny House on Wheels(Y/N)"required> 
            <input type="text" name="foundation" placeholder="Tiny on a foundation(Y/N)"required>
